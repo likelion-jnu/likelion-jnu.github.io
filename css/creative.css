@@ -345,3 +345,14 @@ header.masthead {
 .btn-xl {
   padding: 15px 30px; }
 
+.left-box {
+  background: red;
+  float: left;
+  width: 50%;
+}
+.right-box {
+  background: blue;
+  float: right;
+  width: 50%;
+}
+
